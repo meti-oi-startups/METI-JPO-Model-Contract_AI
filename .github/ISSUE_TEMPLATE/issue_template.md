@@ -1,6 +1,6 @@
 ---
 name: Issue作成用テンプレート
-about: Issueを作成するためのテンプレートです
+about: モデル契約書「AI編」について議論するためのIssueテンプレートです
 title: e.g. 秘密情報の定義について
 labels: ''
 assignees: ''
